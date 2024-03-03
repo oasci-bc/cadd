@@ -1,4 +1,9 @@
 nav:
     - Home: index.md
-    - 0.0 Introduction: intro
-    - Appendices: appendices
+    - intro
+    - lbdd
+    - sbdd
+    - ml
+    - advanced
+    - cases
+    - appendices
