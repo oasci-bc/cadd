@@ -1,9 +1,9 @@
 nav:
     - Home: index.md
     - 0.0 Introduction: intro
-    - lbdd
-    - sbdd
-    - ml
+    - 1.0 Ligand based: lbdd
+    - 2.0 Structure based: sbdd
+    - 3.0 Machine learning: ml
     - advanced
     - cases
     - appendices
