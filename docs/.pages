@@ -1,6 +1,6 @@
 nav:
     - Home: index.md
-    - intro
+    - 0.0 Introduction: intro
     - lbdd
     - sbdd
     - ml
