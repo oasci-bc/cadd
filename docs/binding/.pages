@@ -1,2 +1,5 @@
 nav:
   - 1.0 Binding: index.md
+  - 1.1 Thermodynamics: thermo
+  - 1.2 Noncovalent interactions: noncovalent
+  - 1.3 Entropy: entropy
