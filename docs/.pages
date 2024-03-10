@@ -1,9 +1,10 @@
 nav:
     - Home: index.md
     - 0.0 Introduction: intro
-    - 1.0 Ligand based: lbdd
-    - 2.0 Structure based: sbdd
-    - 3.0 Machine learning: ml
-    - advanced
-    - cases
+    - 1.0 Binding: binding
+    - 2.0 Ligand based: lbdd
+    - 3.0 Structure based: sbdd
+    - 4.0 Machine learning: ml
+    - 5.0 Advanced topics: advanced
+    - 6.0 Case studies: cases
     - appendices

@@ -1,3 +1,3 @@
-# 1.0 Ligand-based drug design
+# 2.0 Ligand-based drug design
 
 TODO:
