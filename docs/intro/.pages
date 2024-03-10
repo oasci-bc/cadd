@@ -1,6 +1,10 @@
 nav:
     - 0.0 Introduction: index.md
-    - 0.1 Overview: overview
+    - history
     - 0.2 Discovery: discovery
-    - 0.3 Development: development
-    - 0.4 Databases: databases
+    - development
+    - types
+    - tools
+    - databases
+    - challenges
+    - future
