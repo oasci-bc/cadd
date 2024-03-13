@@ -2,5 +2,16 @@
 
 TODO:
 
-    Definition and scope
-    Importance in modern drug discovery and development
+??? note "Context"
+
+    **Why are we here?**
+
+    TODO:
+
+    **Where are we now?**
+
+    TODO:
+
+    **Learning objectives**
+
+    TODO:
