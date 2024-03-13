@@ -76,6 +76,10 @@ plugins:
         order: asc
         sort_type: natural
         order_by: title
+  - glightbox
+  - macros
+  - print-site:
+      enumerate_headings: false
 
 hooks:
   - hooks/launchy.py

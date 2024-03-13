@@ -21,6 +21,9 @@ mkdocs-jupyter = "^0.24.6"
 matplotlib = "^3.8.2"
 seaborn = "^0.13.2"
 beautifulsoup4 = "^4.12.3"
+mkdocs-glightbox = "^0.3.7"
+mkdocs-macros-plugin = "^1.0.5"
+mkdocs-print-site-plugin = "^2.3.6"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.0"
@@ -39,14 +42,6 @@ commit = true
 enable = true
 vcs = "git"
 format-jinja = "{%- if distance == 0 -%}{{ serialize_pep440(base) }}{%- else -%}{{ serialize_pep440(base, post=distance) }}{%- endif -%}"
-
-[tool.poetry-dynamic-versioning.substitution]
-patterns = [
-    "(^__version__\\s*(?::.*?)?=\\s*['\"])[^'\"]*(['\"])",
-]
-folders = [
-    { path = "python-bc" },
-]
 
 [build-system]
 requires = [
