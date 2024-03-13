@@ -1,3 +1,3 @@
-# 1.3 Entropy
+# 1.5 Entropy
 
 TODO:
