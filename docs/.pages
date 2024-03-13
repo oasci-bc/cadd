@@ -4,8 +4,7 @@ nav:
     - 1.0 Binding: binding
     - 2.0 Structure based: sbdd
     - 3.0 Ligand based: lbdd
-    - 4.0 Machine learning: ml
-    - 5.0 Advanced topics: advanced
-    - 6.0 Case studies: cases
+    - 4.0 Advanced topics: advanced
+    - 5.0 Case studies: cases
     - appendices
     - Print site: print_page

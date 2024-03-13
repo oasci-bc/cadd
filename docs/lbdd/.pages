@@ -1,2 +1,6 @@
 nav:
   - 3.0 Ligand based: index.md
+  - 3.x Descriptors: descriptors
+  - 3.x QSAR: qsar
+  - 3.x Virtual screening: vs
+  - 3.x ADMET: admet

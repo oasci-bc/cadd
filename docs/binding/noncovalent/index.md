@@ -4,6 +4,8 @@ TODO:
 
 <!-- REFERENCES -->
 
+[^rosa2023pharmaceutical]: Chapter 5 of Rosa, J. M. C. (2023). *Pharmaceutical Chemistry: Drug Design and Action*. Walter de Gruyter GmbH & Co KG.
+[^rudrapal2022computer]: Chapter 5 of Rudrapal, M., & Egbuna, C. (Eds.). (2022). *Computer aided drug design (CADD): From ligand-based methods to structure-based approaches*. Elsevier.
 [^kumar2022drug]: Chapter 4 of Kumar, T. D. A. (2022). *Drug Design: A Conceptual Overview*. CRC Press. DOI: [10.1201/9781003298755](https://doi.org/10.1201/9781003298755)
 [^cooksy2014thermodynamics]: Chapter 2 of Cooksy, A. (2014). *Physical Chemistry: Thermodynamics, statistical mechanics, and kinetics*. Pearson.
 [^stromgaard2017textbook]: Chapter 2 of Strømgaard, K., Krogsgaard-Larsen, P., Madsen, U. (2017). *Textbook of drug design and discovery*. CRC Press.
