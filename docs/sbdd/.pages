@@ -1,3 +1,6 @@
 nav:
   - 2.0 Structure based: index.md
-  - binding
+  - 2.1 Targets: targets
+  - 2.2 Docking: docking
+  - 2.3 Molecular simulations: sims
+  - 2.4 Lead optimization: lead-opt
