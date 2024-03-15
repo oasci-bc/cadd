@@ -14,14 +14,14 @@ Breadcrumb websites are freely accessible resources, and we encourage contributi
 We use [bump-my-version](https://github.com/callowayproject/bump-my-version) to release a new version.
 This will create a git tag that is used by [poetry-dynamic-version](https://github.com/mtkennerly/poetry-dynamic-versioning) to generate version strings.
 
-However, we are using [Calendar Versioning](https://calver.org/) which means we need to manually specify new versions.
+However, we are using [Calendar Versioning](https://calver.org/), meaning we need to specify new versions manually.
 For example, to bump the version to November 8, 2024, you would run the following command after activating the relevant conda environment.
 
 ```bash
 bump-my-version bump --new-version 2024.11.8
 ```
 
-After releasing a new version, you need to push and include all tags.
+After releasing a new version, you must push and include all tags.
 
 ```bash
 git push --follow-tags
@@ -32,12 +32,12 @@ git push --follow-tags
 Code contained in this project is released under the [MIT License](https://spdx.org/licenses/MIT.html) as specified in [`LICENSE_CODE`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md).
 This license grants you the freedom to use, modify, and distribute it as long as you include the original copyright notice contained in [`LICENSE_CODE`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md) and the following notice.
 
-> Portions of this code were incorporated and adapted with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [MIT license](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md).
+> Portions of this code were incorporated with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [MIT license](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md).
 
 All other data, information, documentation, and associated content provided within this project are released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) as specified in [`LICENSE_INFO`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_INFO.md).
 This means you are free to share and adapt the non-code elements, but you must give appropriate credit to the original source and indicate if changes were made.
 
-> Some content was incorporated and adapted with permission [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> Some content was incorporated with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Web analytics
 
@@ -45,7 +45,7 @@ Why would we want to track website traffic?
 
 An instructor can gain insights into how students engage with online teaching materials by analyzing web analytics.
 This information is instrumental in assessing the effectiveness of the materials.
-Web analytics reveal the popularity of specific topics or sections among students and empower instructors to tailor future lectures or discussions.
+Web analytics reveal the popularity of specific topics or sections among students, empowering instructors to tailor future lectures or discussions.
 Analytics also provides valuable data for curriculum development, helping instructors identify trends, strengths, and weaknesses in course materials.
 Additionally, instructors may leverage web analytics as evidence of their commitment to continuous improvement in teaching methods, which is helpful in discussions related to professional development, promotions, or tenure.
 
