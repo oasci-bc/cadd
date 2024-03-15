@@ -35,7 +35,6 @@ This license grants you the freedom to use, modify, and distribute it as long as
 > Portions of this code were incorporated with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [MIT license](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md).
 
 All other data, information, documentation, and associated content provided within this project are released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) as specified in [`LICENSE_INFO`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_INFO.md).
-This means you are free to share and adapt the non-code elements, but you must give appropriate credit to the original source and indicate if changes were made.
 
 > Some content was incorporated with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
