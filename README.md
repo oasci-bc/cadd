@@ -38,3 +38,22 @@ All other data, information, documentation, and associated content provided with
 This means you are free to share and adapt the non-code elements, but you must give appropriate credit to the original source and indicate if changes were made.
 
 > Some content was incorporated and adapted with permission [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Web analytics
+
+Why would we want to track website traffic?
+
+An instructor can gain insights into how students engage with online teaching materials by analyzing web analytics.
+This information is instrumental in assessing the effectiveness of the materials.
+Web analytics reveal the popularity of specific topics or sections among students and empower instructors to tailor future lectures or discussions.
+Analytics also provides valuable data for curriculum development, helping instructors identify trends, strengths, and weaknesses in course materials.
+Additionally, instructors may leverage web analytics as evidence of their commitment to continuous improvement in teaching methods, which is helpful in discussions related to professional development, promotions, or tenure.
+
+We track website traffic using [plausible][plausible], which is privacy-friendly, uses no cookies, and is compliant with [GDPR][gdpr], [CCPA][ccpa], and [PECR][pecr].
+We also share [this website's analytics with you][plausible-link] for additional transparency.
+
+[plausible]: https://plausible.io
+[plausible-link]: https://plausible.io/cadd.crumblearn.org/
+[gdpr]: https://gdpr-info.eu/
+[ccpa]: https://oag.ca.gov/privacy/ccpa
+[pecr]: https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/what-are-pecr/
