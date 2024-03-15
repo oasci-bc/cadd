@@ -1,1 +1,1 @@
-# 0.2 Discovery
+# 1.2 Discovery
