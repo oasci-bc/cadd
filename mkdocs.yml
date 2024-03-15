@@ -80,6 +80,10 @@ plugins:
   - macros
   - print-site:
       enumerate_headings: false
+  - git-revision-date-localized:
+      type: iso_datetime
+      timezone: America/Detroit
+      fallback_to_build_date: true
 
 hooks:
   - hooks/launchy.py
