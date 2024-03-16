@@ -16,5 +16,5 @@ TODO:
 
     TODO:
 
-- Brief overview of Computer-Aided Drug Design (CADD) and its significance in modern pharmaceutical research.
-- The transition from traditional drug discovery methods to the integration of computational tools.
+-   Brief overview of Computer-Aided Drug Design (CADD) and its significance in modern pharmaceutical research.
+-   The transition from traditional drug discovery methods to the integration of computational tools.
