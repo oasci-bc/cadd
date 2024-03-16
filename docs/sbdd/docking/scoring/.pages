@@ -1,0 +1,6 @@
+nav:
+  - 2.3.x Scoring functions: index.md
+  - 2.3.x.1 Force field: ff
+  - 2.3.x.2 Empirical: empirical
+  - 2.3.x.3 Knowledge: knowledge
+  - 2.3.x.4 Machine learning: ml
