@@ -1,5 +1,26 @@
 # 1.3 Development
 
+-   Brief overview of the drug development phase following drug discovery.
+-   Importance of ensuring potential drug candidates are safe and effective for human use.
+
+-   Detailed explanation of the aim to rigorously test drug candidates.
+-   The ultimate objective of achieving regulatory approval.
+
+## Preclinical Studies
+
+1.  Description of laboratory and animal testing.
+2.  Objectives of assessing safety and biological activity.
+
+## Clinical Trials
+
+1.  Overview of human testing phases.
+2.  Objectives of each phase: safety, efficacy, optimal dosing, and side effects.
+
+## Regulatory Approval Process
+
+1.  Explanation of the steps involved in obtaining approval from regulatory authorities.
+2.  The significance of this process in drug development.
+
 <!-- REFERENCES -->
 
 [^rosa2023pharmaceutical]: Chapter 4 of Rosa, J. M. C. (2023). *Pharmaceutical chemistry: Drug design and action*. Walter de Gruyter GmbH & Co KG.
