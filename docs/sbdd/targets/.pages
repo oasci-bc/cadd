@@ -1,6 +1,7 @@
 nav:
   - 2.1 Targets: index.md
-  - 2.1.1 Identification: id
-  - 2.1.2 Structure: structure
-  - 2.1.3 Binding sites: sites
-  - 2.1.4 Receptor theories: receptor-theories
+  - 2.1.1 Classes: class
+  - 2.1.2 Identification: id
+  - 2.1.3 Structure: structure
+  - 2.1.4 Binding sites: sites
+  - 2.1.5 Receptor theories: receptor-theories

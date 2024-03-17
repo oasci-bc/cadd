@@ -1,4 +1,4 @@
-# 2.1.4 Receptor theories
+# 2.1.5 Receptor theories
 
 TODO:
 

@@ -1,4 +1,4 @@
-# 2.x.y Binding sites
+# 2.1.4 Binding sites
 
 TODO:
 <!-- REFERENCES -->
