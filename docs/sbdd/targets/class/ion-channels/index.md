@@ -1,5 +1,9 @@
 # 2.1.1.3 Ion channels
 
+!!! danger "DRAFT"
+
+    This page is a work in progress and is subject to change at any moment.
+
 TODO:
 
 ## Ligand-gated ion channels

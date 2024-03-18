@@ -1,5 +1,9 @@
 # 2.1.1.1 Receptors
 
+!!! danger "DRAFT"
+
+    This page is a work in progress and is subject to change at any moment.
+
 ## G protein-coupled receptors
 
 ## Nuclear receptors

@@ -1,22 +1,10 @@
 # 2.1.1.2 Enzymes
 
+!!! danger "DRAFT"
+
+    This page is a work in progress and is subject to change at any moment.
+
 TODO:
-
-## Protein Kinases
-
-## Proteases
-
-## Transferases
-
-## Oxidoreductases
-
-## Hydrolases
-
-## Lyases
-
-## Isomerases
-
-## Ligases
 
 <!-- REFERENCES -->
 

@@ -1,5 +1,9 @@
 # 1.2 Discovery
 
+!!! danger "DRAFT"
+
+    This page is a work in progress and is subject to change at any moment.
+
 It involves the identification of active compounds for the specific target.
 These compounds serve as a lead molecule for the generation
 of more active compounds.
