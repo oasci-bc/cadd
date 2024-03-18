@@ -1,6 +1,8 @@
-# 2.1.1 Target classes
+# 2.1.1.1 Receptors
 
-TODO:
+## G protein-coupled receptors
+
+## Nuclear receptors
 
 <!-- REFERENCES -->
 

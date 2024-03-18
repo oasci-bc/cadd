@@ -1,6 +1,12 @@
-# 2.1.1 Target classes
+# 2.1.1.3 Ion channels
 
 TODO:
+
+## Ligand-gated ion channels
+
+## Second-messenger-gated ion channels
+
+## Voltage-Gated Ion Channels
 
 <!-- REFERENCES -->
 
