@@ -1,6 +1,9 @@
 # CADD - Breadcrumbs
 
-TODO:
+Welcome!
+This online resource is designed to provide students, researchers, and professionals with a comprehensive introduction to the fascinating field of Computer-Aided Drug Design (CADD).
+Here, you will find a wealth of information on the latest computational methods and tools used in drug discovery and development, as well as practical examples and case studies illustrating their application.
+Whether you are new to CADD or an experienced practitioner, this resource aims to equip you with the knowledge and skills needed to harness the power of computational approaches in the quest for new and improved medicines.
 
 ## What is Breadcrumbs?
 
