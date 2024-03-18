@@ -1,6 +1,10 @@
 # 2.1 Targets
 
-TODO:
+Biological targets serve as crucial control points at the molecular level.
+These targets, predominantly proteins like enzymes and receptors, serve as recognition sites for other molecules.
+This binding event can initiate a domino effect within the cell, influencing fundamental processes like metabolism and intercellular communication.
+Pharmaceutical research strategically leverages this intricate dance by designing drugs to target these specific structures.
+These drugs can mimic or inhibit the natural processes the target molecule governs.
 
 <!-- REFERENCES -->
 
