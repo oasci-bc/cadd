@@ -1,4 +1,4 @@
-# 1.2 Discovery
+# 1.2 Drug discovery
 
 Drug discovery is a critical stage in the drug development pipeline, laying the foundation for creating safe and effective medicines.
 This phase involves identifying potential drug candidates that can interact with specific biological targets associated with a disease or condition.
