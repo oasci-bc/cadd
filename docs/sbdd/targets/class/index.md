@@ -2,6 +2,24 @@
 
 TODO:
 
+## Receptors
+
+### G protein-coupled receptors
+
+### Nuclear receptors
+
+## Enzymes
+
+## Ion channels
+
+### Ligand-gated ion channels
+
+### Second-messenger-gated ion channels
+
+### Voltage-Gated Ion Channels
+
+## Transporters
+
 <!-- REFERENCES -->
 
 [^rosa2023pharmaceutical]: Chapter 5 of Rosa, J. M. C. (2023). *Pharmaceutical chemistry: Drug design and action*. Walter de Gruyter GmbH & Co KG.
