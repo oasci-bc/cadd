@@ -3,7 +3,6 @@ nav:
   - AlphaFold2: alphafold2
   - RoseTTAFold: rosettafold
   - ESMfold: esmfold
-  - Foldseek: foldseek
   - Chroma: chroma
   - EMBER2: ember2
   - FrameDiff: framediff
