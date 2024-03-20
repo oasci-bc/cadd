@@ -1,4 +1,4 @@
-# 2.1.5.1 Occupancy theory
+# 2.1.5.2 Rate theory
 
 TODO:
 
