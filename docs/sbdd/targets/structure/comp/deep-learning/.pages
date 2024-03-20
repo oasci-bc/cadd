@@ -1,0 +1,11 @@
+nav:
+  - Deep learning: index.md
+  - AlphaFold2: alphafold2
+  - RoseTTAFold: rosettafold
+  - ESMfold: esmfold
+  - Foldseek: foldseek
+  - Chroma: chroma
+  - EMBER2: ember2
+  - FrameDiff: framediff
+  - ProteinBERT: proteinbert
+  - RGN2: rgn2
