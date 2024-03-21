@@ -1,2 +1,4 @@
 nav:
   - 2.1.4 Binding sites: index.md
+  - 2.1.4.1 Pocket detection: detection
+  - 2.1.4.2 Pocket properties: props
