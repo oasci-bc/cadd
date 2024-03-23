@@ -1,6 +1,9 @@
 # 2.2.1 Thermodynamics
 
-TODO:
+Protein-ligand binding is a fundamental process that underlies virtually all biological processes, from enzyme catalysis and signal transduction to the action of drugs.
+A deep understanding of the thermodynamics that govern the recognition and association of proteins with their ligands is therefore critical for fields such as biochemistry, cell biology, and especially drug discovery.
+In this chapter, we will delve into the energetic basis of molecular recognition, exploring the kinetics and thermodynamic forces that drive binding equilibria.
+We will learn how to quantify binding through parameters like the dissociation constant ($K_d$) and binding free energy ($\Delta G$), and see how these relate to kinetic constants like on- and off-rates.
 
 <!-- REFERENCES -->
 
