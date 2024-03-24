@@ -1,8 +1,7 @@
 nav:
   - 2.2 Binding: index.md
   - 2.2.1 Thermodynamics: thermo
-  - 2.2.2 Molecular mechanics: mm
-  - 2.2.3 Covalent interactions: covalent
-  - 2.2.4 Noncovalent interactions: noncovalent
-  - 2.2.5 Entropy: entropy
-  - 2.2.6 Kinetics: kinetics
+  - 2.2.2 Intermolecular forces: intermolecular
+  - 2.2.3 Molecular mechanics: mm
+  - 2.2.4 Entropy: entropy
+  - 2.2.5 Kinetics: kinetics

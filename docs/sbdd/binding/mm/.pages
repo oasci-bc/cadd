@@ -1,8 +1,6 @@
 nav:
   - 2.2.2 Molecular mechanics: index.md
   - 2.2.2.1 Force fields: ff
-  - 2.2.2.2 Bonds: bonds
-  - 2.2.2.3 Angles: angles
-  - 2.2.2.4 Dihedrals: dihedrals
-  - 2.2.2.5 Nonbonded: nonbonded
-  - 2.2.2.6 Parameterization: parameterization
+  - 2.2.2.2 Bonded: bonded
+  - 2.2.2.3 Nonbonded: nonbonded
+  - 2.2.2.4 Parameterization: parameterization

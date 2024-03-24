@@ -1,4 +1,4 @@
-# 2.2.6 Kinetics
+# 2.2.5 Kinetics
 
 At its core, the binding of a protein ($P$) and ligand ($L$) to form a complex ($PL$) is a dynamic process involving repeated association and dissociation events:
 

@@ -1,4 +1,4 @@
-# 2.5 Entropy
+# 2.2.4 Entropy
 
 TODO:
 
