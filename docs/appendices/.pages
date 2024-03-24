@@ -2,4 +2,4 @@ nav:
   - Appendices: index.md
   - A. References: references
   - B. Universal gas constant: r
-  - C. MeOH quantum chemistry data: meoh-data
+  - C. Quantum chemistry data: qc-data
