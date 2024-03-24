@@ -3,3 +3,4 @@ nav:
   - Geometry optimization: opt
   - Bond scans: bonds
   - Angle scans: angles
+  - Dihedral scans: dihedrals
