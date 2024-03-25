@@ -89,6 +89,14 @@ $$
 
 TODO:
 
+$$
+u_{2-2} \left( R \right) = \left( \frac{1}{4 \pi \varepsilon_0 } \right) \left[ \frac{\mu_A q_B}{\left[ R + \left(d_B / 2 \right) \right]^2 } - \frac{\mu_A q_B}{\left[ R + \left(d_B / 2 \right) \right]^2 } \right]
+$$
+
+$$
+u_{2-2} \left( R \right) = - \frac{2 \mu_A \mu_B}{\left( 4 \pi \varepsilon_0 \right) R^3}
+$$
+
 <!-- REFERENCES -->
 
 [^jensen2017introduction]: Chapter 2 of Jensen, F. (2017). *Introduction to computational chemistry*. John wiley & sons.
