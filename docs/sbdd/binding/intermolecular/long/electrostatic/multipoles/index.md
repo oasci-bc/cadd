@@ -65,11 +65,25 @@ Octopole interactions are generally weaker than quadrupole interactions and are 
 
 ## Interactions
 
-TODO:
+All interactions can be expressed as a linear combination of multipole contributions
+
+$$
+U (r, \theta, \phi) = \sum_{l = 0}^{\infty} \sum_{m = -l}^{l} U_{l, m} (r) Y_l^m \left( \theta, \phi \right)
+$$
+
+where $Y_l^m \left( \theta, \phi \right)$ are the spherical harmonics and the radial dependence is captured in $U_{l, m} \left( r \right)$.
 
 ### Monopole-dipole
 
 TODO:
+
+$$
+u_{1-2} \left( R \right) = \frac{1}{4 \pi \varepsilon_0} \left[ \frac{q_A q_B}{R + (d_A / 2)} - \frac{q_A q_B}{R - (d_A / 2)} \right]
+$$
+
+$$
+u_{1-2} \left( R \right) = - \frac{\mu_A q_B}{\left( 4 \pi \varepsilon_0 \right) R^2}
+$$
 
 ### Dipole-dipole
 
