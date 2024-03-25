@@ -47,3 +47,11 @@ $$
 $$
 
 where $\alpha$ is the polarizability of the molecule and $\mathcal{E}$ is external electric field.
+
+TODO:
+
+$$
+u_{2-2'} \left( R \right) = - \frac{4 \mu_A^2 \alpha_B}{\left( 4 \pi \varepsilon_0 \right) R^6}
+$$
+
+TODO:
