@@ -26,12 +26,6 @@ TODO:
 
 ## π-π
 
-=== "Face-to-face"
-
-    <figure markdown>
-    ![](../../../../../img/sbdd/binding/pi-interactions/pi-pi-face-to-face.png){ alight=left width=200 }
-    </figure>
-
 === "Edge-to-face"
 
     <figure markdown>
@@ -42,6 +36,12 @@ TODO:
 
     <figure markdown>
     ![](../../../../../img/sbdd/binding/pi-interactions/pi-pi-displaced.png){ alight=left width=200 }
+    </figure>
+
+=== "Face-to-face"
+
+    <figure markdown>
+    ![](../../../../../img/sbdd/binding/pi-interactions/pi-pi-face-to-face.png){ alight=left width=200 }
     </figure>
 
 ## Cation-π
