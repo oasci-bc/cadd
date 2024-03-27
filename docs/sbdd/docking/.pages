@@ -3,3 +3,5 @@ nav:
   - 2.3.x Conformation search: conform-search
   - 2.3.x Docking types: types
   - 2.3.x Scoring functions: scoring
+  - 2.3.x Pose refinement: refinement
+  - 2.3.x Packages: packages
