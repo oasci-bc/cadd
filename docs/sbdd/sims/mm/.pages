@@ -1,0 +1,6 @@
+nav:
+  - 2.4.x Molecular mechanics: index.md
+  - 2.2.x.1 Force fields: ff
+  - 2.2.x.2 Bonded: bonded
+  - 2.2.x.3 Nonbonded: nonbonded
+  - 2.2.x.4 Parameterization: parameterization
