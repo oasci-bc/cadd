@@ -1,5 +1,5 @@
 nav:
-  -  Ligand based: index.md
+  - Ligand based: index.md
   - Descriptors: descriptors
   - QSAR: qsar
   - Virtual screening: vs

@@ -1,5 +1,5 @@
 nav:
-  -  Targets: index.md
+  - Targets: index.md
   - Classes: class
   - Identification: id
   - Structure: structure

@@ -1,9 +1,9 @@
 nav:
     - Home: index.md
-    -  Introduction: intro
-    -  Structure based: sbdd
-    -  Ligand based: lbdd
-    -  Advanced topics: advanced
-    -  Case studies: cases
+    - Introduction: intro
+    - Structure based: sbdd
+    - Ligand based: lbdd
+    - Advanced topics: advanced
+    - Case studies: cases
     - Appendices: appendices
     - Print site: print_page

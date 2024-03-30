@@ -1,7 +1,7 @@
 nav:
-    -  Introduction: index.md
-    -  History: history
-    -  Discovery: discovery
-    -  Development: development
-    -  Types: types
-    -  Regulation: regulation
+    - Introduction: index.md
+    - History: history
+    - Discovery: discovery
+    - Development: development
+    - Types: types
+    - Regulation: regulation

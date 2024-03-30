@@ -1,5 +1,5 @@
 nav:
-  -  Docking: index.md
+  - Docking: index.md
   - Preparation: prep
   - Docking types: types
   - Scoring functions: scoring
