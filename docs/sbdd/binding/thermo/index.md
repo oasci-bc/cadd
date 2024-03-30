@@ -10,10 +10,10 @@ This is the key thermodynamic quantity that dictates the equilibrium populations
 For the general noncovalent binding reaction $P + L \rightleftharpoons PL$, we can write:
 
 $$
-\Delta G_{bind} = - R T \ln \left( K_{eq} \right)
+\Delta G_{bind} = - R T \ln \left( K_{a} \right)
 $$
 
-where $R$ is the [universal gas constant](../../../appendices/r/), $T$ is the absolute temperature in Kelvin, and $K_{eq}$ is the equilibrium constant.
+where $R$ is the [universal gas constant](../../../appendices/r/), $T$ is the absolute temperature in Kelvin, and $K_{a}$ is the association constant at equilibrium.
 
 ??? note "Derivation"
 

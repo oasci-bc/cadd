@@ -1,6 +1,6 @@
 nav:
-  -  Binding: index.md
+  - Binding: index.md
   - Kinetics: kinetics
   - Thermodynamics: thermo
-  - Intermolecular forces: intermolecular
+  - Enthalpy: enthalpy
   - Entropy: entropy

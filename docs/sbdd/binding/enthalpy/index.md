@@ -1,9 +1,7 @@
-# Intermolecular forces
+# Enthalpy
 
-Before getting into [molecular mechanics](../mm/), we should discuss the intermolecular forces the govern atomic interactions.
-These forces, frequently called noncovalent interactions, occur between molecules or parts of the same molecule without forming a chemical bond.
+Enthalpy is predominately driven by intermolecular forces or noncovalent interactions that occur between molecules or parts of the same molecule without forming a chemical bond.
 Although weaker than covalent bonds, these interactions are fundamental to the binding of drugs to their targets and the overall stability of molecular complexes.
-Understanding the nature and strength of these interactions is crucial before learning how we model these using the [molecular mechanics](../mm/) framework.
 
 <!-- REFERENCES -->
 
