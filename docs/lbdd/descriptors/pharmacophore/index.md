@@ -1,4 +1,4 @@
-# 3.x.y Pharmacophore
+#.y Pharmacophore
 
 TODO:
 

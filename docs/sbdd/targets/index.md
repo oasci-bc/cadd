@@ -1,4 +1,4 @@
-# 2.1 Targets
+# Targets
 
 Biological targets serve as crucial control points at the molecular level.
 These targets, predominantly proteins like enzymes and receptors, serve as recognition sites for other molecules.

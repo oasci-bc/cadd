@@ -1,4 +1,4 @@
-# 3.x Virtual screening
+# Virtual screening
 
 TODO:
 

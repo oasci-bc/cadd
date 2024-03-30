@@ -1,4 +1,4 @@
-# 2.1.3.2 Computational
+# Computational
 
 Understanding the three-dimensional (3D) structure of proteins is essential for deciphering their functions and interactions.
 However, determining protein structures experimentally through methods like X-ray crystallography and nuclear magnetic resonance (NMR) spectroscopy can be time-consuming and costly.

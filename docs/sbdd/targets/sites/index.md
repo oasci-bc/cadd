@@ -1,4 +1,4 @@
-# 2.1.4 Binding sites
+# Binding sites
 
 In the field of drug discovery and design, identifying potential binding sites on target proteins is a crucial step in the development of novel therapeutic agents.
 These binding sites, often referred to as pockets or cavities, are regions on the protein surface where small molecules, such as drugs or ligands, can interact and form stable complexes.

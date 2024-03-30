@@ -1,3 +1,3 @@
-# 2.3.x Pose refinement
+#.x Pose refinement
 
 TODO:

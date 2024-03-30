@@ -1,4 +1,4 @@
-# 2.2.x Covalent interactions
+#.x Covalent interactions
 
 Covalent interactions are the chemical bonds formed by the sharing of electrons between atoms.
 These strong interactions play a crucial role in determining the structure, stability, and reactivity of molecules.

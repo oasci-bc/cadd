@@ -1,4 +1,4 @@
-# 1.1 History
+# History
 
 !!! danger "DRAFT"
 

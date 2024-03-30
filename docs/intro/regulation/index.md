@@ -1,4 +1,4 @@
-# 1.5 Regulation
+# Regulation
 
 Regulatory oversight plays a critical role in ensuring the safety and efficacy of new drugs developed through the drug discovery and development process.
 As computational methods become increasingly integrated into this process, it is essential to understand the regulatory landscape and how it applies to the use of in silico techniques.

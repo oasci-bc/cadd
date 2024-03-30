@@ -1,4 +1,4 @@
-# 2.1.1.3 Ion channels
+# Ion channels
 
 !!! danger "DRAFT"
 

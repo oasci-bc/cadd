@@ -1,4 +1,4 @@
-# 4.0 Advanced topics in CADD
+# Advanced topics in CADD
 
 TODO:
 

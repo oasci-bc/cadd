@@ -1,6 +1,6 @@
 nav:
-  - 2.1.2 Identification: index.md
-  - 2.1.2.1 Genome-wide association studies: gwa
-  - 2.1.2.2 Differential gene expression: dge
-  - 2.1.2.3 Network analysis: network
-  - 2.1.2.4 Proteomics: proteomics
+  - Identification: index.md
+  - Genome-wide association studies: gwa
+  - Differential gene expression: dge
+  - Network analysis: network
+  - Proteomics: proteomics

@@ -1,3 +1,3 @@
-# 2.3.x Docking types
+#.x Docking types
 
 TODO:

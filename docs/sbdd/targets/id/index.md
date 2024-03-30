@@ -1,4 +1,4 @@
-# 2.1.2 Target identification
+# Target identification
 
 TODO:
 

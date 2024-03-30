@@ -1,4 +1,4 @@
-# 2.1.4.2 Pocket properties
+# Pocket properties
 
 TODO:
 <!-- REFERENCES -->

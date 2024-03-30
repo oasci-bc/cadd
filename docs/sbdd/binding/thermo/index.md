@@ -1,4 +1,4 @@
-# 2.2.1 Thermodynamics
+# Thermodynamics
 
 Protein-ligand binding is a fundamental process that underlies virtually all biological processes, from enzyme catalysis and signal transduction to the action of drugs.
 Therefore, a deep understanding of the thermodynamics that governs the recognition and association of proteins with their ligands is critical for fields such as biochemistry, cell biology, and especially drug discovery.

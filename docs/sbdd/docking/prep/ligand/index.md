@@ -1,3 +1,3 @@
-# 2.3.x Ligand
+# Ligand
 
 TODO:

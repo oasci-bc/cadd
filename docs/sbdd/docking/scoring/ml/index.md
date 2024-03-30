@@ -1,3 +1,3 @@
-# 2.3.x.y Machine learning
+#.x.y Machine learning
 
 TODO:

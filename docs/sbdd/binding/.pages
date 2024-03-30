@@ -1,6 +1,6 @@
 nav:
-  - 2.2 Binding: index.md
-  - 2.2.1 Kinetics: kinetics
-  - 2.2.2 Thermodynamics: thermo
-  - 2.2.3 Intermolecular forces: intermolecular
-  - 2.2.4 Entropy: entropy
+  -  Binding: index.md
+  - Kinetics: kinetics
+  - Thermodynamics: thermo
+  - Intermolecular forces: intermolecular
+  - Entropy: entropy

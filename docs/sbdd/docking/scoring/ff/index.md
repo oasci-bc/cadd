@@ -1,3 +1,3 @@
-# 2.3.x.y Force field
+# Force field
 
 TODO:

@@ -1,4 +1,4 @@
-# 2.1.2.2 Differential gene expression
+# Differential gene expression
 
 TODO:
 

@@ -1,4 +1,4 @@
-# 2.1.2.3 Network analysis
+# Network analysis
 
 TODO:
 

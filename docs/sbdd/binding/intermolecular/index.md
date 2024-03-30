@@ -1,4 +1,4 @@
-# 2.2.2 Intermolecular forces
+# Intermolecular forces
 
 Before getting into [molecular mechanics](../mm/), we should discuss the intermolecular forces the govern atomic interactions.
 These forces, frequently called noncovalent interactions, occur between molecules or parts of the same molecule without forming a chemical bond.

@@ -1,3 +1,3 @@
-# 2.2.2.2 Short-range interactions
+# Short-range interactions
 
 TODO:

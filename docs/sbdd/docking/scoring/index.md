@@ -1,4 +1,4 @@
-# 2.3.x Scoring functions
+#.x Scoring functions
 
 TODO:
 

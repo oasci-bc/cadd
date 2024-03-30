@@ -1,4 +1,4 @@
-# 2.1.5.5 Activation-aggregation theory
+# Activation-aggregation theory
 
 TODO:
 

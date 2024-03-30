@@ -1,4 +1,4 @@
-# 2.0 Structure-based drug design
+# Structure-based drug design
 
 Structure-based drug design (SBDD) marks a paradigm shift in the world of pharmaceutical development.
 It moves away from the slow and resource-intensive process of randomly testing vast libraries of molecules.

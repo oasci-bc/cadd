@@ -1,4 +1,4 @@
-# 2.2.2 Molecular mechanics
+# Molecular mechanics
 
 Molecular mechanics is a computational approach that uses classical physics to model the potential energy of a molecular system. It provides a mathematical framework for understanding the energetics of molecules and their interactions. In molecular mechanics, the potential energy of a system is calculated using a force field, which is a set of equations and parameters that describe the various components contributing to the overall energy. These components include bond stretching, angle bending, torsional terms, and non-bonded interactions. By understanding the principles of molecular mechanics, we can gain valuable insights into the behavior of molecules and their potential as drug candidates.
 

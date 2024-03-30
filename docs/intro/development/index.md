@@ -1,4 +1,4 @@
-# 1.3 Drug development
+# Drug development
 
 Following the [drug discovery phase](../discovery/), the most promising lead compounds progress through the drug development pipeline.
 This process involves a series of stages designed to assess potential drug candidates' safety, efficacy, and manufacturability.

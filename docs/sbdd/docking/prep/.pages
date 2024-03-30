@@ -1,4 +1,4 @@
 nav:
-  - 2.3.x Preparation: index.md
-  - 2.3.x Protein: protein
-  - 2.3.x Ligand: ligand
+  - Preparation: index.md
+  - Protein: protein
+  - Ligand: ligand

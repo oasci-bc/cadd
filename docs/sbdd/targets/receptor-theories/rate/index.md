@@ -1,4 +1,4 @@
-# 2.1.5.2 Rate theory
+# Rate theory
 
 TODO:
 

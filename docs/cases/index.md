@@ -1,4 +1,4 @@
-# 5.0 Case studies
+# Case studies
 
 TODO:
 

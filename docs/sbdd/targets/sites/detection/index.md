@@ -1,4 +1,4 @@
-# 2.1.4.1 Pocket detection
+# Pocket detection
 
 Pocket discovery, also known as pocket detection or cavity detection, is a computational approach that aims to locate and analyze potential binding sites on proteins.
 This process involves the use of various algorithms and tools that can efficiently explore the protein surface and identify regions with favorable physicochemical properties for ligand binding.

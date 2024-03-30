@@ -1,4 +1,4 @@
-# 2.1.1.1 Receptors
+# Receptors
 
 !!! danger "DRAFT"
 

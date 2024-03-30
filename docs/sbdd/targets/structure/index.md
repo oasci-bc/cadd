@@ -1,4 +1,4 @@
-# 2.1.3 Target structure
+# Target structure
 
 TODO:
 

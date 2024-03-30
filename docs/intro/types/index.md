@@ -1,4 +1,4 @@
-# 1.4 Types of CADD
+# Types of CADD
 
 Computer-aided drug design (CADD) is an interdisciplinary field that leverages computational methods to facilitate and accelerate the drug discovery and development process.
 CADD techniques can be broadly classified into two main categories: structure-based drug design (SBDD) and ligand-based drug design (LBDD).

@@ -1,6 +1,6 @@
 nav:
-  - 2.0 Structure based: index.md
-  - 2.1 Targets: targets
-  - 2.2 Binding: binding
-  - 2.3 Docking: docking
-  - 2.4 Molecular simulations: sims
+  -  Structure based: index.md
+  -  Targets: targets
+  -  Binding: binding
+  -  Docking: docking
+  -  Molecular simulations: sims

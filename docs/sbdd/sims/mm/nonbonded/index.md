@@ -1,3 +1,3 @@
-# 2.2.x.5 Nonbonded
+#.x.5 Nonbonded
 
 TODO:
