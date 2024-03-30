@@ -1,5 +1,6 @@
 nav:
   - Deep learning: index.md
+  - Coevolution: coevolution
   - AlphaFold2: alphafold2
   - RoseTTAFold: rosettafold
   - ESMfold: esmfold
