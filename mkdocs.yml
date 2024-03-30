@@ -107,6 +107,7 @@ extra:
 extra_css:
   - css/base.css
   - css/colors.css
+  - css/3dmol.css
   - css/progress.css
   - css/launchy.css
 
