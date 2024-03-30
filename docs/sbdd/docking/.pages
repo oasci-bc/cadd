@@ -1,6 +1,6 @@
 nav:
   - 2.3 Docking: index.md
-  - 2.3.x Conformation search: conform-search
+  - 2.3.x Preparation: prep
   - 2.3.x Docking types: types
   - 2.3.x Scoring functions: scoring
   - 2.3.x Pose refinement: refinement
