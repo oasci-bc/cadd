@@ -1,3 +1,4 @@
 nav:
   - Packages: index.md
   - ...
+  - Glycans: glycan
