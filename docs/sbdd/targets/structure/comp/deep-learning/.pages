@@ -1,7 +1,6 @@
 nav:
   - Deep learning: index.md
-  - Coevolution: coevolution
-  - AlphaFold2: alphafold2
+  - AlphaFold: alphafold
   - RoseTTAFold: rosettafold
   - ESMfold: esmfold
   - Chroma: chroma
@@ -9,3 +8,4 @@ nav:
   - FrameDiff: framediff
   - ProteinBERT: proteinbert
   - RGN2: rgn2
+  - OpenFold: openfold
