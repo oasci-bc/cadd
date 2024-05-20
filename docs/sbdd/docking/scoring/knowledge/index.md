@@ -1,3 +1,3 @@
-#.x.y Knowledge
+#.y Knowledge
 
 TODO:

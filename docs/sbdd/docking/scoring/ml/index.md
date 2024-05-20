@@ -1,3 +1,3 @@
-#.x.y Machine learning
+#.y Machine learning
 
 TODO:

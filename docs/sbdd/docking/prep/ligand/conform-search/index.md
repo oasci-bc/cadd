@@ -1,3 +1,3 @@
-#.x Conformation search
+# Conformation search
 
 TODO:
