@@ -1,6 +1,6 @@
 nav:
   - Scoring functions: index.md
-  - Force field: ff
+  - Physics: physics
   - Empirical: empirical
   - Knowledge: knowledge
   - Machine learning: ml
