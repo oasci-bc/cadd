@@ -1,5 +1,6 @@
 nav:
   - Computational: index.md
+  - CASP: casp
   - Homology: homology
   - Threading: threading
   - Ab initio: ab-initio
