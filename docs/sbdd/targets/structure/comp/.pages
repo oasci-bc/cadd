@@ -1,8 +1,8 @@
 nav:
   - Computational: index.md
-  - CASP: casp
-  - Homology: homology
-  - Threading: threading
-  - Ab initio: ab-initio
-  - Coevolution: coevolution
-  - Deep learning: deep-learning
+  - CASP: https://biophys.crumblearn.org/structural/pred/casp/
+  - Homology: https://biophys.crumblearn.org/structural/pred/homology/
+  - Threading: https://biophys.crumblearn.org/structural/pred/threading/
+  - Ab initio: https://biophys.crumblearn.org/structural/pred/ab-initio/
+  - Coevolution: https://biophys.crumblearn.org/structural/pred/coevolution/
+  - Deep learning: https://biophys.crumblearn.org/structural/pred/deep-learning/

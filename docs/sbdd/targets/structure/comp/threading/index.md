@@ -1,5 +1,0 @@
-# Threading
-
-TODO:
-
-<!-- REFERENCES -->

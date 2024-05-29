@@ -1,4 +1,4 @@
 nav:
   - Experimental: index.md
-  - X-ray crystallography: xray
-  - Cryo-EM: cryo
+  - X-ray crystallography: https://biophys.crumblearn.org/structural/xrd/
+  - Cryo-EM: https://biophys.crumblearn.org/structural/cryo-em/

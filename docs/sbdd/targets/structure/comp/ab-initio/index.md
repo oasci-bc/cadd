@@ -1,5 +1,0 @@
-# Ab initio
-
-TODO:
-
-<!-- REFERENCES -->

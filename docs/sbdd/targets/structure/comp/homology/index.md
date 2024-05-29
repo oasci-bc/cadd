@@ -1,5 +1,0 @@
-# Homology
-
-TODO:
-
-<!-- REFERENCES -->

@@ -1,3 +1,0 @@
-# AlphaFold
-
-TODO:
