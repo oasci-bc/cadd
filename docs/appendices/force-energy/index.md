@@ -1,4 +1,4 @@
-# D. Force and energy
+# Force and energy
 
 TODO:
 

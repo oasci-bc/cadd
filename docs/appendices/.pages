@@ -1,6 +1,7 @@
 nav:
   - Appendices: index.md
-  - A. References: references
-  - B. Universal gas constant: r
-  - C. Quantum chemistry data: qc-data
-  - D. Force and energy: force-energy
+  - References: references
+  - Data: data
+  - Universal gas constant: r
+  - Quantum chemistry data: qc-data
+  - Force and energy: force-energy

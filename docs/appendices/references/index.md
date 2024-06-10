@@ -1,8 +1,8 @@
-# A. References
+# References
 
 The following resources are recommended for further reading.
 
-## A.1 Textbooks
+## Textbooks
 
 -   Rosa, J. M. C. (2023). *Pharmaceutical chemistry: Drug design and action*. Walter de Gruyter GmbH & Co KG.
 -   📚 Kumar, T. D. A. (2022). *Drug design: A conceptual overview*. CRC Press. DOI: [10.1201/9781003298755](https://doi.org/10.1201/9781003298755)
@@ -23,6 +23,6 @@ The following resources are recommended for further reading.
 
     📚 means this textbook is freely available online through the University of Pittsburgh library.
 
-## A.2 Reviews
+## Reviews
 
 -   Braun, E., Gilmer, J., Mayes, H. B., Mobley, D. L., Monroe, J. I., Prasad, S., & Zuckerman, D. M. (2018). Best practices for foundations in molecular simulations [Article v1.0]. *Living Journal of Computational Molecular Science, 1*(1), 5957. DOI: [10.33011/livecoms.1.1.5957](https://doi.org/10.33011/livecoms.1.1.5957)

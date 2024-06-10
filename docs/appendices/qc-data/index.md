@@ -1,3 +1,3 @@
-# C. Quantum chemistry data
+# Quantum chemistry data
 
 TODO:

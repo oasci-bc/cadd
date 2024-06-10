@@ -1,4 +1,4 @@
-# B. Universal gas constant
+# Universal gas constant
 
 The universal gas constant ($R$) emerges as a fundamental constant that relates the microscopic properties of a system (e.g., the motion and interactions of individual particles) to its macroscopic thermodynamic properties (e.g., temperature, pressure, and energy).
 
