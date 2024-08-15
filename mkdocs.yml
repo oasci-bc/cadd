@@ -3,9 +3,8 @@ docs_dir: docs
 site_name: CADD - Breadcrumbs
 site_author: OASCI
 
-repo_name: oasci/breadcrumbs/cadd
-repo_url: https://gitlab.com/oasci/breadcrumbs/cadd
-edit_uri: -/edit/main/cadd
+repo_name: oasci-bc/cadd
+repo_url: https://github.com/oasci-bc/cadd
 copyright: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> by OASCI
 
 # https://squidfunk.github.io/mkdocs-material/
@@ -29,7 +28,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   icon:
-    repo: fontawesome/brands/gitlab
+    repo: fontawesome/brands/github
     annotation: material/star-four-points-circle
   features:
     # - content.action.edit
@@ -96,7 +95,7 @@ extra:
     domain: cadd.crumblearn.org
   social:
     - icon: fontawesome/brands/gitlab
-      link: https://gitlab.com/oasci
+      link: https://github.com/oasci-bc
       name: OASCI on GitLab
     - icon: fontawesome/brands/github
       link: https://github.com/oasci

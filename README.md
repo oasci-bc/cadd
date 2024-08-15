@@ -32,14 +32,14 @@ git push --follow-tags
 
 ## License
 
-Code contained in this project is released under the [MIT License](https://spdx.org/licenses/MIT.html) as specified in [`LICENSE_CODE`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md).
-This license grants you the freedom to use, modify, and distribute it as long as you include the original copyright notice contained in [`LICENSE_CODE`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md) and the following notice.
+Code contained in this project is released under the [MIT License](https://spdx.org/licenses/MIT.html) as specified in [`LICENSE_CODE`](https://github.com/oasci-bc/cadd/blob/main/LICENSE_CODE.md).
+This license grants you the freedom to use, modify, and distribute it as long as you include the original copyright notice contained in [`LICENSE_CODE`](https://github.com/oasci-bc/cadd/blob/main/LICENSE_CODE.md) and the following notice.
 
-> Portions of this code were incorporated with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [MIT license](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_CODE.md).
+> Portions of this code were incorporated with permission from [CADD Breadcrumbs](https://github.com/oasci-bc/cadd) by OASCI licensed under the [MIT license](https://github.com/oasci-bc/cadd/blob/main/LICENSE_CODE.md).
 
-All other data, information, documentation, and associated content provided within this project are released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) as specified in [`LICENSE_INFO`](https://gitlab.com/oasci/breadcrumbs/cadd/-/blob/main/LICENSE_INFO.md).
+All other data, information, documentation, and associated content provided within this project are released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) as specified in [`LICENSE_INFO`](https://github.com/oasci-bc/cadd/blob/main/LICENSE_INFO.md).
 
-> Some content was incorporated with permission from [CADD Breadcrumbs](https://gitlab.com/oasci/cadd) by OASCI licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> Some content was incorporated with permission from [CADD Breadcrumbs](https://github.com/oasci-bc/cadd) by OASCI licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Web analytics
 
