@@ -7,3 +7,4 @@ By understanding these interactions at the molecular level, scientists can ratio
 <!-- REFERENCES -->
 
 [^yang2022protein]: Yang, C., Chen, E. A., & Zhang, Y. (2022). Protein–ligand docking in the machine-learning era. *Molecules, 27*(14), 4568. DOI: [10.3390/molecules27144568](https://doi.org/10.3390/molecules27144568)
+[^paggi2024art]: Paggi, J. M., Pandit, A., & Dror, R. O. (2024). The art and science of molecular docking. *Annual Review of Biochemistry, 93*. DOI: [10.1146/annurev-biochem-030222-120000](https://doi.org/10.1146/annurev-biochem-030222-120000)
