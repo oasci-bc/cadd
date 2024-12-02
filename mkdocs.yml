@@ -31,16 +31,11 @@ theme:
     repo: fontawesome/brands/github
     annotation: material/star-four-points-circle
   features:
-    # - content.action.edit
-    # - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.code.select
     - content.tooltips
     - content.tabs.link
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
@@ -61,6 +56,7 @@ plugins:
   - search
   - autorefs
   - material-plausible
+  - macros
   - table-reader
   - mkdocs-jupyter:
         no_input: False
@@ -76,7 +72,6 @@ plugins:
         sort_type: natural
         order_by: title
   - glightbox
-  - macros
   - print-site:
       enumerate_headings: false
   - git-revision-date-localized:

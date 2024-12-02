@@ -1,0 +1,32 @@
+[project]
+authors = ["OASCI <us@oasci.org>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "cadd-breadcrumbs"
+platforms = ["win-64", "linux-64", "osx-64"]
+version = "2024.10.26"
+readme = "README.md"
+
+[pypi-dependencies]
+material-plausible-plugin = ">=0.2.0,<0.3"
+mkdocs-awesome-pages-plugin = ">=2.9.3,<3"
+mkdocs-print-site-plugin = ">=2.6.0,<3"
+
+[system-requirements]
+
+[tasks]
+docs = { cmd = ["rm", "-rf", "./public/", "&&", "mkdocs", "build", "-d", "public/"] }
+serve = { cmd = ["mkdocs", "serve"] }
+
+[dependencies]
+mkdocs = ">=1.6.1,<2"
+mkdocs-material = ">=9.5.44,<10"
+pymdown-extensions = ">=10.12,<11"
+mkdocs-table-reader-plugin = ">=3.1.0,<4"
+mkdocstrings = ">=0.26.2,<0.27"
+mkdocstrings-python = ">=1.12.2,<2"
+mkdocs-gen-files = ">=0.4.0,<0.5"
+mkdocs-macros-plugin = ">=1.3.7,<2"
+mkdocs-jupyter = ">=0.25.0,<0.26"
+mkdocs-glightbox = ">=0.4.0,<0.5"
+mkdocs-git-revision-date-localized-plugin = ">=1.2.9,<2"

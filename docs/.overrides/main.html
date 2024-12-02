@@ -2,16 +2,8 @@
 
 {% block header %}
     {{ super() }}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.0.6/3Dmol.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/molstar@latest/build/viewer/molstar.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 {% endblock %}
-
-{% block content %}
-{% if page.nb_url %}
-    <a href="{{ page.nb_url }}" title="Download Notebook" class="md-content__button md-icon">
-        {% include ".icons/material/download.svg" %}
-    </a>
-{% endif %}
-
-{{ super() }}
-{% endblock content %}
