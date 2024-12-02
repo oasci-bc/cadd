@@ -1,0 +1,399 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Projects/biosci-1630-2023-fall-project-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/postdoc/biosci-1630-2023-fall",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "name": {
+                "width": 403
+              },
+              "tags": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "priority",
+              "due",
+              "created"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "47ae3bdb-2d17-4a5c-9bef-086c419220df",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "priorityField": "priority",
+            "groupByField": "status",
+            "columns": {
+              "Planned": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b6ec6e68-0295-40db-ba8b-cea06a87b0be",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "2weeks"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9b8368a0-9707-4881-bdbe-cf67d83734e0",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "7f2c22f1-6eeb-4e1e-a436-2b74e088d476",
+      "name": "BIOSCI-1630-2023-fall"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Projects/random-project-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/postdoc/random",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 258
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9bc8a2bb-150e-4048-87e6-7c56c37af303",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d4a83233-f452-4588-8bf4-799df096982b",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "3623c67e-4608-4031-914a-edac0c6274db",
+      "name": "Random"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Projects/alr-project-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/postdoc/alr",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ec19ffb1-99e6-45b4-9459-bbf9ee06a92f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c5ad8fa1-34be-4303-94db-1ed208a8505c",
+      "name": "Alanine racemase"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/postdoc",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 292
+              },
+              "tags": {
+                "hide": false
+              },
+              "path": {
+                "hide": true
+              },
+              "status": {
+                "width": 120
+              },
+              "priority": {
+                "width": 120
+              },
+              "created": {
+                "width": 120
+              },
+              "due": {
+                "width": 107
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "priority",
+              "created",
+              "due",
+              "tags"
+            ],
+            "sortField": "priority",
+            "sortAsc": true
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "status",
+                "operator": "not-contains",
+                "enabled": true,
+                "value": "Complete ✅"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5a675045-6df0-4029-b905-801b8fcdd285",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b49e1c07-ac65-420d-9cda-9b8e82646fa7",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "1cd7ca80-d04a-4493-af1d-08aa472db963",
+      "name": "Postdoc Projects"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Projects/ybr-project-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/postdoc/ybr",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "status",
+              "priority",
+              "path",
+              "created",
+              "due",
+              "tags"
+            ]
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "status",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "Complete ✅"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a98b5761-7034-4778-8919-fafde0476eec",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "35b888c6-27e4-41fa-afee-71a068ad4bc7",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "f633e844-8568-4c86-8251-8264148afccd",
+      "name": "YBR"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates/Projects/gfp-project-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/postdoc/gfp",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0699c0e2-be82-40a6-859f-b24261f3fed5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fd29f58d-3483-46ee-88ae-c7ccfd9b29c5",
+      "name": "GFP"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

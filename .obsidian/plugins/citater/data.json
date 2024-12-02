@@ -1,0 +1,12 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{title}} (@{{citekey}})",
+  "literatureNoteFolder": "docs/appendices/references/lit",
+  "literatureNoteContentTemplate": "---\ntags: literature\n---\n\n**Title:** {{title}}\n\n**Authors:** {{authorString}}\n\n**Journal:** {{containerTitle}}\n\n**Year:** {{year}}\n\n**DOI:** [{{DOI}}](https://doi.org/{{DOI}})\n\n## Abstract\n\n> TODO: Add abstract if desired.\n\n## Takeaways\n\n- TODO: Add takeaways if desired.\n\n## Main\n\nTODO: Add notes if desired\n\n## Bibtex\n\n```bibtex\nTODO: Add bibtex entry\n```",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "bibtexLocation": "docs/appendices/references/lit/refs-bib.md",
+  "indentBibtex": true,
+  "addRibbonAction": true,
+  "citationExportPath": "docs/appendices/references/lit/refs-bib.md"
+}

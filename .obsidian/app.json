@@ -1,0 +1,31 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "tabSize": 2,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "content/i",
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/a",
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "public/",
+    "docs/",
+    "quartz/"
+  ]
+}
