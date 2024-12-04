@@ -14,7 +14,8 @@ tags: literature
 
 ## Abstract
 
-> The Metropolis technique of conformation searching is combined with rapid energy evaluation using molecular affinity potentials to give an efficient procedure for docking substrates to macromolecules of known structure. The procedure works well on a number of crystallographic test systems, functionally reproducing the observed binding modes of several substrates
+> The Metropolis technique of conformation searching is combined with rapid energy evaluation using molecular affinity potentials to give an efficient procedure for docking substrates to macromolecules of known structure.
+> The procedure works well on a number of crystallographic test systems, functionally reproducing the observed binding modes of several substrates.
 
 ## Takeaways
 
